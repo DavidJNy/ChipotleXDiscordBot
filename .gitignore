@@ -1,2 +1,8 @@
 /myenv
 config.py
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+/__pycache__
